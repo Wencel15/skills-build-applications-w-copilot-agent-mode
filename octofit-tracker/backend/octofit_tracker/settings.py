@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-o1&@fu@a=+r$+i861(zf8=dzc!2s*4p&_zcc(wd!-popsjfal1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['fit-8000.app.github.dev', 'localhost']
 
 
 # Application definition
